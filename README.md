@@ -7,14 +7,14 @@
 </p>
 <hr>
 
-<h2><pre>N O M B R E  D E L  P R O Y E C T O</pre></h2>
+<h2>NOMBRE DEL PROYECTO</h2>
 <p>
-  <strong>Casa del Camino</strong>
+  <strong>Casa del Camino, Sistema de Gestión</strong>
 </p>
 
 <hr>
 
-<h2>D E S C R I P C I Ó N</h2>
+<h2>DESCRIPCIÓN</h2>
 <p>
   <strong>Casa del Camino</strong> es un proyecto de base de datos desarrollado con fines académicos para la materia
   <em>Fundamentos de Bases de Datos</em>.
@@ -33,7 +33,7 @@
 
 <hr>
 
-<h2>M O T I V A C I Ó N</h2>
+<h2>MOTIVACIÓN</h2>
 <p>
   La motivación principal de este proyecto es aplicar de forma práctica los conceptos fundamentales del diseño y
   administración de bases de datos mediante un caso realista y fácil de comprender.
@@ -57,7 +57,7 @@
 
 <hr>
 
-<h2>T E C H  S T A C K</h2>
+<h2>TTECH STACK</h2>
 <p>
   Las tecnologías utilizadas son sencillas, accesibles y apropiadas para un proyecto introductorio:
 </p>
@@ -71,11 +71,11 @@
 
 <hr>
 
-<h2>M A T E R I A</h2>
+<h2>MATERIA</h2>
 <p>Fundamentos de Bases de Datos</p>
 
-<h2>A U T O R</h2>
+<h2>AUTOR</h2>
 <p><strong>Linda Alexandra Vallejo Gonzalez</strong></p>
 
-<h2>G R U P O</h2>
+<h2>GRUPO</h2>
 <p><strong>4SA</strong></p>
