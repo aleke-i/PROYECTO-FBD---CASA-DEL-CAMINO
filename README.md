@@ -2,11 +2,9 @@
 <h3 align="center">Sistema de Gestión de Restaurante y Renta de Cabañas</h3>
 
 <hr>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+  <p align="left">
+<img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+</p>
 <hr>
 
 <h2>N O M B R E  D E L  P R O Y E C T O</h2>
