@@ -7,7 +7,7 @@
 </p>
 <hr>
 
-<h2>N O M B R E  D E L  P R O Y E C T O</h2>
+<h2>N O M B R E</h2> <h2>D E L</h2>
 <p>
   <strong>Casa del Camino</strong>
 </p>
