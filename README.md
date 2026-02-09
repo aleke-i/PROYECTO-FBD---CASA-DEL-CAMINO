@@ -2,8 +2,8 @@
 <h3 align="center">Sistema de Gestión de Restaurante y Renta de Cabañas</h3>
 
 <hr>
-  <p align="left">
-<img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+  <p align="center">
+<img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif">
 </p>
 <hr>
 
