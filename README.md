@@ -16,19 +16,19 @@
 
 <h2>DESCRIPCIÓN</h2>
 <p>
-  <strong>Casa del Camino</strong> es un proyecto de base de datos desarrollado con fines académicos para la materia
+  <strong>Casa del Camino</strong> es un proyecto de base de datos desarrollado para la materia
   <em>Fundamentos de Bases de Datos</em>.
 </p>
 
 <p>
-  El sistema está diseñado para administrar de manera integral la información de un restaurante y un conjunto de
-  cabañas ubicadas dentro del mismo terreno. La base de datos permite gestionar clientes, menús, pedidos y pagos
-  del restaurante, así como la renta de cabañas, huéspedes y reservaciones.
+  La idea del proyecto surge de un negocio que combina un restaurante con un área de cabañas dentro del mismo
+  terreno, por lo que se necesita una forma clara y ordenada de administrar toda la información.
 </p>
 
 <p>
-  Ambos servicios se encuentran relacionados, permitiendo que un mismo cliente pueda hospedarse en una cabaña
-  y consumir productos del restaurante, centralizando toda la información en un solo sistema.
+  A través de esta base de datos se busca llevar el control de clientes, platillos, pedidos y pagos del restaurante,
+  así como la renta de cabañas, los huéspedes y las reservaciones. Todo se concentra en un solo sistema para facilitar
+  el manejo de los datos y evitar desorden o duplicación de información.
 </p>
 
 <hr>
@@ -39,25 +39,9 @@
   administración de bases de datos mediante un caso realista y fácil de comprender.
 </p>
 
-<p>
-  A través de este sistema se busca reforzar conocimientos como:
-</p>
-
-<ul>
-  <li>Identificación de entidades y atributos</li>
-  <li>Relaciones entre tablas</li>
-  <li>Llaves primarias y foráneas</li>
-  <li>Normalización de datos</li>
-  <li>Consultas básicas en SQL</li>
-</ul>
-
-<p>
-  Además, el proyecto está pensado para poder escalar y adaptarse a nuevas necesidades conforme se avanza en la materia.
-</p>
-
 <hr>
 
-<h2>TTECH STACK</h2>
+<h2>TECH STACK</h2>
 <p>
   Las tecnologías utilizadas son sencillas, accesibles y apropiadas para un proyecto introductorio:
 </p>
