@@ -21,30 +21,27 @@
 </p>
 
 <p>
-  La idea del proyecto surge de un negocio que combina un restaurante con un área de cabañas dentro del mismo
-  terreno, por lo que se necesita una forma clara y ordenada de administrar toda la información.
+  La idea de mi proyecto surge de un negocio que contiene un restaurante con un área de cabañas dentro del mismo
+  terreno, las cabañas no tienen sistema alguno, por lo que se necesita una forma clara y ordenada de administrar toda
+  la información de estas.
 </p>
 
 <p>
-  A través de esta base de datos se busca llevar el control de clientes, platillos, pedidos y pagos del restaurante,
-  así como la renta de cabañas, los huéspedes y las reservaciones. Todo se concentra en un solo sistema para facilitar
-  el manejo de los datos y evitar desorden o duplicación de información.
+  A través de una base de datos se busca llevar el control de la renta de cabañas, los huéspedes y las reservaciones.
+  Todo se concentra en un solo sistema para facilitar el manejo de los datos y evitar desorden o duplicación de información.
 </p>
 
 <hr>
 
 <h2>MOTIVACIÓN</h2>
 <p>
-  La motivación principal de este proyecto es aplicar de forma práctica los conceptos fundamentales del diseño y
-  administración de bases de datos mediante un caso realista y fácil de comprender.
+  La motivación principal de mi proyecto es aplicar de forma práctica los conceptos fundamentales del diseño y
+  administración de bases de datos mediante un caso fácil de comprender.
 </p>
 
 <hr>
 
 <h2>TECH STACK</h2>
-<p>
-  Las tecnologías utilizadas son sencillas, accesibles y apropiadas para un proyecto introductorio:
-</p>
 
 <ul>
   <li><strong>SQL</strong> – Lenguaje principal para la definición y manipulación de la base de datos.</li>
