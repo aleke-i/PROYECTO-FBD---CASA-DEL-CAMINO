@@ -44,10 +44,10 @@
 <h2>TECH STACK</h2>
 
 <ul>
-  <li><strong>SQL</strong> – Lenguaje principal para la definición y manipulación de la base de datos.</li>
-  <li><strong>MySQL</strong> – Sistema gestor de bases de datos relacional.</li>
-  <li><strong>GitHub</strong> – Control de versiones y almacenamiento del proyecto.</li>
-  <li><strong>HTML</strong> – Documentación visual y estructurada del proyecto.</li>
+  <li><strong>SQL</strong> = Lenguaje principal para la definición y manipulación de la base de datos.</li>
+  <li><strong>MySQL</strong> = Sistema gestor de bases de datos relacional.</li>
+  <li><strong>GitHub</strong> = Control de versiones y almacenamiento.</li>
+  <li><strong>HTML</strong> = Documentación visual y estructurada.</li>
 </ul>
 
 <hr>
