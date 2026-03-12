@@ -1,5 +1,5 @@
 <h1 align="center">CASA DEL CAMINO</h1>
-<h3 align="center">Sistema de Gestión de Restaurante y Renta de Cabañas</h3>
+<h3 align="center">Sistema de Renta de Cabañas</h3>
 
 <hr>
   <p align="center">
